@@ -1,2 +1,3 @@
 # hello-world
-just another respository
+
+hello eyerybody ,i'm qinzifeng
